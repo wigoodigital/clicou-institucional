@@ -1,0 +1,17 @@
+@media(min-width:1024px) {
+    #aboutus-bg {
+        background-image: URL(../imagenscp/img/backgrounds/BgsBrancos/bgbranco1280x720.png);
+    }
+}
+
+@media(min-width:426px) {
+    #aboutus-bg {
+        background-image: URL(../imagenscp/img/backgrounds/BgsBrancos/bgbranco768x450.png);
+    }
+}
+
+@media(min-width:320px) {
+    #aboutus-bg {
+        background-image: URL(../imagenscp/img/backgrounds/BgsBrancos/bgbranco640x800.png);
+    }
+}

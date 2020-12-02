@@ -1,0 +1,44 @@
+@media(min-width:1024px) {
+    #unique-slide {
+        background-image: URL(../imagenscp/img/backgrounds/bg1280x720_002.png);
+    }
+    #firstslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg1280x720_002.png);
+    }
+    #secondslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg1280x720_002.png);
+    }
+    #thirdeslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg1280x720_002.png);
+    }
+}
+
+@media(min-width:426px) {
+    #unique-slide {
+        background-image: URL(../imagenscp/img/backgrounds/bg768x450_002.png);
+    }
+    #firstslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg768x450_002.png);
+    }
+    #secondslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg768x450_002.png);
+    }
+    #thirdeslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg768x450_002.png);
+    }
+}
+
+@media(min-width:320px) {
+    #unique-slide {
+        background-image: URL(../imagenscp/img/backgrounds/bg640x800_002.png);
+    }
+    #firstslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg640x800_002.png);
+    }
+    #secondslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg640x800_002.png);
+    }
+    #thirdeslide {
+        background-image: URL(../imagenscp/img/backgrounds/bg640x800_002.png);
+    }
+}
